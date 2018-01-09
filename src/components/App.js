@@ -14,7 +14,6 @@ componentDidMount = () => {
     console.log(feed)
     return (
       <div className="App">
-        {}
       </div>
     );
   }
